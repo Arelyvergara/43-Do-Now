@@ -1,0 +1,23 @@
+.center {
+    display: flex;
+    justify-content: center;  
+}
+.parent {
+	background-color: pink;
+    padding: 10px;
+}
+
+.green-child {
+    background-color: lightgreen;
+    width: 100px;
+    margin: 10px;
+    
+}
+
+.blue-child {
+    background-color: lightblue;
+    width: 100px;
+    margin: 10px;
+    
+}
+
